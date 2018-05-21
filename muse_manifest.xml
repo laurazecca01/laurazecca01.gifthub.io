@@ -1,0 +1,195 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vista.com" resolutions="1x" timestamp="1526927777102">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-mastro.css" crc="4101864014" ref="apparato-visivo:anatomiaocchio:processo-visivo:illusioniottiche:patologieocchio"/>
+    <file name="master_a-mastro.css" crc="4093429182" ref="apparato-visivo:anatomiaocchio:index:processo-visivo:page2:illusioniottiche:patologieocchio"/>
+    <file name="nomq_preview_master_a-mastro.css" crc="3824530138" ref="apparato-visivo:anatomiaocchio:index:processo-visivo:page2:illusioniottiche:patologieocchio"/>
+    <file name="apparato-visivo.css" crc="178652687" ref="apparato-visivo"/>
+    <file name="iefonts_apparato-visivo.css" crc="513652839" ref="apparato-visivo"/>
+    <file name="anatomiaocchio.css" crc="156186281" ref="anatomiaocchio"/>
+    <file name="iefonts_anatomiaocchio.css" crc="105800647" ref="anatomiaocchio"/>
+    <file name="index.css" crc="206049973" ref="index"/>
+    <file name="nomq_index.css" crc="179406853" ref="index"/>
+    <file name="processo-visivo.css" crc="4075008795" ref="processo-visivo"/>
+    <file name="iefonts_processo-visivo.css" crc="3765622294" ref="processo-visivo"/>
+    <file name="page2.css" crc="4211124858" ref="page2"/>
+    <file name="illusioniottiche.css" crc="3789872471" ref="illusioniottiche"/>
+    <file name="iefonts_illusioniottiche.css" crc="304433428" ref="illusioniottiche"/>
+    <file name="patologieocchio.css" crc="464720128" ref="patologieocchio"/>
+    <file name="iefonts_patologieocchio.css" crc="121020738" ref="patologieocchio"/>
+  </folder>
+  <folder name="fonts">
+    <file name="bigjohn.woff" crc="4187613452"/>
+    <file name="bigjohn.eot" crc="408515238"/>
+    <file name="bigjohn.svg" crc="4145741042"/>
+  </folder>
+  <folder name="assets">
+    <file name="outline-hover-effect.mulib" crc="148938682" seo="true" mt="1526810566000"/>
+    <file name="slider-widget.muse" crc="4001675742" seo="true" mt="1526659837000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page2:illusioniottiche:patologieocchio:anatomiaocchio:processo-visivo:apparato-visivo"/>
+    <file name="museutils.js" crc="340535759" ref="index:page2:illusioniottiche:patologieocchio:anatomiaocchio:processo-visivo:apparato-visivo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page2:illusioniottiche:patologieocchio:anatomiaocchio:processo-visivo:apparato-visivo"/>
+    <file name="museconfig.js" crc="310584261" ref="index:page2:illusioniottiche:patologieocchio:anatomiaocchio:processo-visivo:apparato-visivo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:illusioniottiche:patologieocchio"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:page2:illusioniottiche:patologieocchio:anatomiaocchio:processo-visivo:apparato-visivo"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:page2:illusioniottiche:patologieocchio:anatomiaocchio:processo-visivo:apparato-visivo"/>
+    <file name="webpro.js" crc="4059564322" ref="illusioniottiche"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="illusioniottiche"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="illusioniottiche:patologieocchio:anatomiaocchio:processo-visivo:apparato-visivo"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="senza titolo-2.png" crc="3892527450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r2.png" crc="4195969685" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="senza titolo-2465x465.png" crc="479559655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r2-u622-r-fr.png" crc="421560885" ref="index"/>
+    <file name="visualsystdef.png" crc="162099090" seo="true" ref="page2">
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="viprdef.png" crc="435422640" seo="true" ref="page2">
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="anabul def.png" crc="4071691558" seo="true" ref="page2">
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="glasses.png" crc="515666055" seo="true" ref="page2">
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="illusionsdef.png" crc="3867257704" seo="true" ref="page2">
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="alchemy.gif" crc="160062207" ref="illusioniottiche">
+      <caption webpage="illusioniottiche" alt=""/>
+    </file>
+    <file name="hbill.png" crc="4142719243" seo="true" ref="illusioniottiche">
+      <caption webpage="illusioniottiche" alt=""/>
+    </file>
+    <file name="ponzolarge.jpg" crc="223898746" seo="true" ref="illusioniottiche">
+      <caption webpage="illusioniottiche" alt=""/>
+    </file>
+    <file name="stripes.jpg" crc="314359714" seo="true" ref="illusioniottiche">
+      <caption webpage="illusioniottiche" alt=""/>
+    </file>
+    <file name="scien.jpg" crc="253697906" ref="illusioniottiche">
+      <caption webpage="illusioniottiche" alt=""/>
+    </file>
+    <file name="spacer.png" crc="200371220" seo="true" ref="illusioniottiche:patologieocchio:anatomiaocchio:processo-visivo:apparato-visivo">
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="processo-visivo" alt=""/>
+      <caption webpage="processo-visivo" alt=""/>
+      <caption webpage="anatomiaocchio" alt=""/>
+      <caption webpage="anatomiaocchio" alt=""/>
+      <caption webpage="apparato-visivo" alt=""/>
+      <caption webpage="apparato-visivo" alt=""/>
+      <caption webpage="illusioniottiche" alt=""/>
+    </file>
+    <file name="nwsted squares.jpg" crc="4097020395" ref="illusioniottiche">
+      <caption webpage="illusioniottiche" alt=""/>
+    </file>
+    <file name="karpinski_fig3.gif" crc="485489974" seo="true" ref="illusioniottiche">
+      <caption webpage="illusioniottiche" alt=""/>
+    </file>
+    <file name="illusion_of_gray_dots_nevit_065svg.png" crc="313808609" ref="illusioniottiche">
+      <caption webpage="illusioniottiche" alt=""/>
+    </file>
+    <file name="visione-normale.jpg" crc="3796405729" seo="true" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="miopia_visione.jpg" crc="3806880926" seo="true" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="ipermetropia_visione.jpg" crc="308205639" seo="true" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="astigmatismo_visione.jpg" crc="4273436612" seo="true" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="presbiopia_visione.jpg" crc="3875260409" seo="true" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="cataratta_visione.jpg" crc="4192929400" seo="true" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="strabismus.gif" crc="303644477" seo="true" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="congiuntivite-300x231.jpg" crc="496278618" seo="true" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="eye-glaucoma-01-mobile.gif" crc="3931971447" seo="true" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="вечір_на__інтегралі__-_річка_південний_буг.jpg" crc="331415953" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="monochromacy_sight.jpg" crc="4276708280" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="tritanopia_sight.jpg" crc="139091081" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="deuteranopia_sight.jpg" crc="200305592" ref="patologieocchio">
+      <caption webpage="patologieocchio" alt=""/>
+    </file>
+    <file name="occhio.png" crc="21466763" seo="true" ref="anatomiaocchio">
+      <caption webpage="anatomiaocchio" alt=""/>
+    </file>
+    <file name="ss2574836.jpg" crc="3961798269" seo="true" ref="anatomiaocchio">
+      <caption webpage="anatomiaocchio" alt=""/>
+    </file>
+    <file name="crosssection.jpg" crc="319377104" seo="true" ref="anatomiaocchio">
+      <caption webpage="anatomiaocchio" alt=""/>
+    </file>
+    <file name="ciliary-muscle-anatomy-eye-muscle-anatomy-human-anatomy.jpg" crc="4047055932" seo="true" ref="anatomiaocchio">
+      <caption webpage="anatomiaocchio" alt=""/>
+    </file>
+    <file name="ciliary-muscles-in-ciliary-body.jpg" crc="409756035" seo="true" ref="anatomiaocchio">
+      <caption webpage="anatomiaocchio" alt=""/>
+    </file>
+    <file name="inserts3-1.png" crc="385555018" seo="true" ref="anatomiaocchio">
+      <caption webpage="anatomiaocchio" alt=""/>
+    </file>
+    <file name="processo.gif" crc="3797880420" seo="true" ref="processo-visivo">
+      <caption webpage="processo-visivo" alt=""/>
+    </file>
+    <file name="eye line.png" crc="427241089" seo="true" ref="processo-visivo">
+      <caption webpage="processo-visivo" alt=""/>
+    </file>
+    <file name="def appvisivo.png" crc="434636130" seo="true" ref="apparato-visivo">
+      <caption webpage="apparato-visivo" alt=""/>
+    </file>
+    <file name="primary-visual-cortex-lessons.gif" crc="4083216621" seo="true" ref="apparato-visivo">
+      <caption webpage="apparato-visivo" alt=""/>
+    </file>
+    <file name="222_0.gif" crc="29306477" seo="true" ref="apparato-visivo">
+      <caption webpage="apparato-visivo" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4285174906" seo="true" mt="1526668202039" redirect="true"/>
+  <file name="page2.html" crc="474413627" seo="true" mt="1526903896984" redirect="true"/>
+  <file name="illusioniottiche.html" crc="48966875" seo="true" mt="1526918403889" redirect="true"/>
+  <file name="patologieocchio.html" crc="4053221997" seo="true" mt="1526903686284" redirect="true"/>
+  <file name="anatomiaocchio.html" crc="3768946638" seo="true" mt="1526926777327" redirect="true"/>
+  <file name="processo-visivo.html" crc="135548649" seo="true" mt="1526919926026" redirect="true"/>
+  <file name="apparato-visivo.html" crc="3868894723" seo="true" mt="1526923082722" redirect="true"/>
+</manifest>
